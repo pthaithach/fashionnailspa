@@ -3305,3 +3305,13 @@ a.social-button:hover{
         overflow-y: scroll;
     }
 }
+
+.padding-left{
+    padding-left: 22px;
+}
+.panel-body.panel_text ul li.text-red{
+    color: red;
+    list-style: none;
+    font-weight: bold;
+    padding-bottom: 5px;
+}
